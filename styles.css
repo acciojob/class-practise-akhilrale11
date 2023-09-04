@@ -1,12 +1,6 @@
 /*  your css code here. If applicable */
-.para1{
+p.selector{
 	font-color: skyblue;
-	background-color: grey;
-	font-family: Arial;
-	font-size: 20px;
-}
-.para3{
-	font-color: blue;
 	background-color: grey;
 	font-family: Arial;
 	font-size: 20px;
