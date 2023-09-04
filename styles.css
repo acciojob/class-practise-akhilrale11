@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 p.selector{
-	font-color: skyblue;
-	background-color: grey;
+	color: blue;
+	background-color: silver;
 	font-family: Arial;
 	font-size: 20px;
 }
